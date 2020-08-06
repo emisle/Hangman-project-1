@@ -4,7 +4,8 @@
 * http://127.0.0.1:5501/index.html
 
 ## Whimsical wireframe image
-* ![Hangman Wireframe](https://whimsical.com/XYUwGPg6bei5FqqfFAaLWX)
+* ![](https://user-images.githubusercontent.com/68576904/89580271-ed7d8700-d7e9-11ea-909e-0dd9c19f4146.png)
+
 
 ## Objectives:
 * set a user profile with name and optional picture in top corner
@@ -44,7 +45,6 @@
 * mute button to turn off background music if desired
 
 ## Psuedo Code:
-* Class to create color objects
 * Arrays to hold user choices
 * Click event for button to submit guesses
 * Color button click event handler to save users guesses
